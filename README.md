@@ -1,191 +1,934 @@
-# 👋 Hey, I'm Soumya Ranjan Panda
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
 
-### Founder • Data Science @ IIT Madras • Builder
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d1117,20:0f2027,55:0f3460,85:533483,100:7b2d8b&text=Soumya%20Ranjan%20Panda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=20&descColor=a78bfa"/>
 
-> **I build things at the intersection of Software, AI, Data & Hardware.**
-
-I'm a Data Science student at **IIT Madras** and the founder of **SoApp**, a retail-tech startup building intelligent self-checkout and retail automation systems.
-
-I enjoy taking an idea from **0 → prototype → product** - writing the software, experimenting with hardware, designing architectures, and figuring out how to turn it into something people actually use.
-
----
-
-## 🚀 What I'm Building
-
-### 🛍️ SoApp — Retail, Reimagined
-
-I'm building **SoApp**, a B2B retail-tech platform combining:
-
-* 📱 NFC-based self-checkout
-* 📡 UHF RFID security & inventory tracking
-* 🤖 Intelligent retail automation
-* 📦 Real-time inventory management
-* 🔐 Checkout validation & anti-shoplifting systems
-
-The goal:
-
-> **Make physical retail as seamless, intelligent and data-driven as digital commerce.**
-
-SoApp is currently being developed with a focus on organized retail and real-world deployment.
-
----
-
-## 🧠 What I'm Currently Learning
-
-```text
-Data Science        ███████████████████░  95%
-Machine Learning    ████████████████░░░░  80%
-Python              ███████████████████░  95%
-Software Engineering████████████████░░░░  85%
-AI / LLMs           ███████████████░░░░░  75%
-Backend Systems     ████████████████░░░░  80%
-Hardware / IoT      █████████████░░░░░░░  65%
-Entrepreneurship    █████████████████░░░  85%
-```
-
-Currently diving deeper into:
-
-* Machine Learning
-* Deep Learning
-* LLMs & RAG
-* Data Engineering
-* System Design
-* IoT & RFID
-* Backend Architecture
-* Applied AI
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### AI / Data
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-
-### Web / Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Hardware / IoT
-
-```text
-ESP32 • NFC • RFID • PN532 • UHF RFID
-```
-
----
-
-## 🔬 Things I've Worked On
-
-| Project                   | What I worked on                                    |
-| ------------------------- | --------------------------------------------------- |
-| 🛍️ **SoApp**             | NFC/RFID self-checkout, inventory & retail security |
-| 🤖 **AI / ML Projects**   | Machine learning & applied AI systems               |
-| 🏗️ **BIM / IFC AI**      | IFC processing, automation & AI-assisted workflows  |
-| 🧠 **LLM / RAG Systems**  | Document processing, embeddings & retrieval         |
-| 🌐 **Full-Stack Systems** | APIs, databases, dashboards & mobile applications   |
-| 📡 **IoT Systems**        | ESP32, NFC/RFID integration & hardware prototypes   |
-
----
-
-## 🏆 Highlights
-
-* 🎓 Data Science student at **IIT Madras**
-* 🚀 Founder of **SoApp**
-* 🏢 Building a B2B SaaS + hardware product
-* 🧪 Working on real-world RFID/NFC retail systems
-* 💡 Participated in startup & innovation events
-* 📜 Working on intellectual property around retail technology
-* 👨‍💻 Built software systems end-to-end
-* 📚 Author of **"What to Do in Your Teenage"**
-
----
-
-## 📈 GitHub Stats
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;AI+Engineer;Data+Science+Researcher;Deep+Learning+Enthusiast;Generative+AI+Explorer;Data-Driven+Problem+Solver;Builder+of+Intelligent+Systems"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<a href="https://github.com/23f2004742">
+<img src="https://img.shields.io/github/followers/23f2004742?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=533483"/>
+</a>
+
+<a href="https://github.com/23f2004742">
+<img src="https://komarev.com/ghpvc/?username=23f2004742&style=for-the-badge&color=0d1117&labelColor=0f3460&label=PROFILE+VIEWS"/>
+</a>
+
+<img src="https://img.shields.io/badge/Data%20Science-IIT%20Madras-533483?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Building-0f3460?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<i>I transform data into insights, insights into models, and models into intelligent systems.</i>
 </p>
 
----
+<br/>
 
-## 🧩 My Philosophy
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-```python
-while True:
-    learn()
-    build()
-    fail()
-    iterate()
-```
 
-I believe the fastest way to learn is to **build real things**.
+<!-- ===================================================== -->
+<!--                    ABOUT ME                           -->
+<!-- ===================================================== -->
 
-Not just tutorials.
+<br/>
 
-Not just certificates.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
-**Real problems → Real systems → Real users.**
-
----
-
-## 📚 Beyond Code
-
-When I'm not building software, you'll probably find me:
-
-* 🚀 Working on SoApp
-* 📖 Learning something completely new
-* 🧠 Exploring AI & emerging technologies
-* 💡 Thinking about products and startups
-* ✍️ Writing
-* 🎤 Participating in startup/innovation events
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in talking about:
-
-**AI • Data Science • Startups • SaaS • RetailTech • IoT • RFID • Product Building**
+<br/>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=15&pause=2000&color=06B6D4&center=true&vCenter=true&width=750&lines=Data+Science+Student+at+IIT+Madras;Learning+Machine+Learning+%26+AI;Turning+data+into+decisions;Exploring+applied+AI+%26+research;Building+systems+to+solve+real+problems"/>
+
+</p>
+
+<br/>
+
+<table width="95%" align="center">
+
+<tr>
+
+<td width="70%" valign="top">
+
+<h3>Hi, I'm Soumya 👋</h3>
+
+I'm a <b>Data Science student at IIT Madras</b> passionate about understanding data, building predictive models, and exploring how Artificial Intelligence can solve complex real-world problems.
+
+<br/><br/>
+
+My interests span the complete data to AI pipeline:
+
+<br/><br/>
+
+<table>
+
+<tr>
+<td>🎓</td>
+<td><b>Data Science</b> at IIT Madras</td>
+</tr>
+
+<tr>
+<td>📊</td>
+<td><b>Machine Learning</b> with predictive modelling, classification, regression and clustering</td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Deep Learning</b> with neural networks and representation learning</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><b>Generative AI</b> with LLMs, RAG, embeddings and intelligent applications</td>
+</tr>
+
+<tr>
+<td>🔬</td>
+<td><b>Research</b> through experimentation, analysis and applied AI systems</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td><b>Builder</b> focused on turning ideas into working systems</td>
+</tr>
+
+</table>
+
+<br/>
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Science-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7b2d8b?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<p align="center">
+
+<b>Currently exploring</b>
+
+<br/><br/>
+
+<kbd>Machine Learning</kbd>
+<kbd>Deep Learning</kbd>
+<kbd>LLMs</kbd>
+<kbd>RAG</kbd>
+<kbd>Data Engineering</kbd>
+<kbd>Statistics</kbd>
+<kbd>Computer Vision</kbd>
+<kbd>MLOps</kbd>
+
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=Tech%20Stack&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+
+<br/>
+
+<p align="center">
+<i>Tools I use to explore data, train models and build intelligent systems.</i>
+</p>
+
+<br/>
+
+<h3 align="center">Programming</h3>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash"/>
+
+</p>
+
+<br/>
+
+<table width="95%" align="center">
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<h3>📊 Data Science</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-0f2027?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-0f2027?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-0f2027?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-0f2027?style=flat-square&logo=tableau&logoColor=white"/>
+
+</p>
+
+<b>
+EDA · Data Cleaning · Visualization · Statistical Analysis · Feature Engineering
+</b>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🧠 Machine Learning</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-203a43?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/CatBoost-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optuna-203a43?style=flat-square"/>
+
+</p>
+
+<b>
+Regression · Classification · Clustering · Ensemble Learning · Model Evaluation
+</b>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🤖 Deep Learning</h3>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/ANN-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/RNN-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNN-2c5364?style=flat-square"/>
+
+</p>
+
+<b>
+Neural Networks · Representation Learning · Computer Vision · Transfer Learning
+</b>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<table width="95%" align="center">
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🧬 Generative AI</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0f2027?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-0f2027?style=flat-square"/>
+
+</p>
+
+<b>
+LLM Applications · RAG · Semantic Search · Prompt Engineering · Fine Tuning
+</b>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🗄️ Data & Databases</h3>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-203a43?style=flat-square&logo=redis&logoColor=white"/>
+
+</p>
+
+<b>
+Relational Databases · Data Modelling · Data Pipelines · Semantic Search
+</b>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>⚙️ Engineering & MLOps</h3>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Flask-2c5364?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Celery-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/GraphQL-2c5364?style=flat-square"/>
+
+</p>
+
+<b>
+APIs · Backend Systems · Docker · CI/CD · Linux · Cloud
+</b>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                 AREAS OF INTEREST                     -->
+<!-- ===================================================== -->
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=Areas%20of%20Interest&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-7b2d8b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7b2d8b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-7b2d8b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Research-533483?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=Featured%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+
+<br/>
+
+<p align="center">
+<i>Selected projects across Machine Learning, Generative AI, NLP, Data Engineering and Full Stack Development.</i>
+</p>
+
+<br/>
+
+
+<!-- ================= PROJECT 1 ================= -->
+
+<table width="95%" align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>📈 Heavy Industrial Machinery Price Prediction</h2>
+
+<h4>Gradient Boosting Regression Pipeline</h4>
+
+<p>
+Built a regression pipeline forecasting equipment valuation from mixed numerical, categorical and high-cardinality data.
+</p>
+
+<p>
+
+✨ Optuna Hyperparameter Optimization  
+<br/>
+✨ CatBoost · XGBoost · LightGBM · Random Forest  
+<br/>
+✨ Target and Frequency Encoding  
+<br/>
+✨ 4 Model Ensemble  
+<br/>
+✨ Stratified Cross Validation  
+<br/>
+✨ RMSLE Optimization
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/CatBoost-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optuna-0f2027?style=flat-square"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🧠 Smart MCQ Solver</h2>
+
+<h4>NLP and Generative AI Ranking System</h4>
+
+<p>
+Built an AI ranking system predicting the top 3 correct answers for multiple choice questions, optimized for MAP@3.
+</p>
+
+<p>
+
+✨ Transformer Based Reasoning  
+<br/>
+✨ Retrieval Augmented Generation  
+<br/>
+✨ Model Output Ensembling  
+<br/>
+✨ Hugging Face Transformers  
+<br/>
+✨ MAP@3 Optimization  
+<br/>
+✨ Interactive Streamlit Deployment
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-203a43?style=flat-square"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<!-- ================= PROJECT 2 ================= -->
+
+<table width="95%" align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>💳 Lending Approval & Financial Fraud Detection</h2>
+
+<h4>RAG Based Financial Intelligence System</h4>
+
+<p>
+Built a RAG system analysing bank statements, GST filings and annual reports to support lending approval decisions.
+</p>
+
+<p>
+
+✨ Document Ingestion Pipeline  
+<br/>
+✨ Embedding and Semantic Search  
+<br/>
+✨ Cross Document Inconsistency Detection  
+<br/>
+✨ LLM Based Financial Reasoning  
+<br/>
+✨ Audit Ready Explanations  
+<br/>
+✨ Financial Document Intelligence
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-2c5364?style=flat-square"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🏗️ IFC File Error Detection System</h2>
+
+<h4>Machine Learning for BIM Validation</h4>
+
+<p>
+Built an ML based error detection system for IFC files used in BIM workflows, automating structural and syntactic validation.
+</p>
+
+<p>
+
+✨ IFC Schema Feature Engineering  
+<br/>
+✨ Random Forest Classifier  
+<br/>
+✨ Error Type Prediction  
+<br/>
+✨ Hyperparameter Tuning  
+<br/>
+✨ Automated Structural Validation  
+<br/>
+✨ Reduced Manual Review
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Random%20Forest-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/BIM-203a43?style=flat-square"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<!-- ================= PROJECT 3 ================= -->
+
+<table width="95%" align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🎓 College Placement Portal</h2>
+
+<h4>Role Based Full Stack Platform</h4>
+
+<p>
+Built a role based placement platform supporting students, recruiters and administrators.
+</p>
+
+<p>
+
+✨ Vue.js Single Page Application  
+<br/>
+✨ Flask and Node.js Services  
+<br/>
+✨ JWT Authentication and RBAC  
+<br/>
+✨ REST and GraphQL APIs  
+<br/>
+✨ Celery and Redis Async Tasks  
+<br/>
+✨ Relational Database Architecture
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Vue.js-0f2027?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-0f2027?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0f2027?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-0f2027?style=flat-square&logo=redis&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🥾 Trekking Management App</h2>
+
+<h4>Full Stack Booking and Management Platform</h4>
+
+<p>
+Built a full stack trekking management platform with booking workflows, relational ORM models and an administrative dashboard.
+</p>
+
+<p>
+
+✨ Trek Booking System  
+<br/>
+✨ User Authentication  
+<br/>
+✨ Itinerary Management  
+<br/>
+✨ Booking Status Tracking  
+<br/>
+✨ Capacity Management  
+<br/>
+✨ Admin Dashboard
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Flask-2c5364?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jinja2-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-2c5364?style=flat-square"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/6-Projects%20Built-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML%20%2B%20AI-Focused-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/End%20to%20End-Systems-7b2d8b?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                 LEARNING JOURNEY                      -->
+<!-- ===================================================== -->
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=Learning%20Journey&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+
+<br/>
+
+<table width="95%" align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+<h3>📊</h3>
+
+<b>Statistics</b>
+
+<br/><br/>
+
+Probability  
+<br/>
+Statistical Inference  
+<br/>
+Hypothesis Testing  
+<br/>
+Regression
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🧠</h3>
+
+<b>Machine Learning</b>
+
+<br/><br/>
+
+Supervised Learning  
+<br/>
+Unsupervised Learning  
+<br/>
+Feature Engineering  
+<br/>
+Model Evaluation
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🤖</h3>
+
+<b>Deep Learning</b>
+
+<br/><br/>
+
+ANNs  
+<br/>
+CNNs  
+<br/>
+Representation Learning  
+<br/>
+Optimization
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>🧬</h3>
+
+<b>Artificial Intelligence</b>
+
+<br/><br/>
+
+LLMs  
+<br/>
+RAG  
+<br/>
+Embeddings  
+<br/>
+Intelligent Systems
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Goal-Build%20strong%20foundations%20in%20AI%20%26%20Data%20Science-0f3460?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                 GITHUB ANALYTICS                      -->
+<!-- ===================================================== -->
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+
+<br/>
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=23f2004742&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=06B6D4&icon_color=a78bfa&text_color=c9d1d9"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004742&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=23f2004742&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=a78bfa&currStreakLabel=06B6D4"/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23f2004742&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=a78bfa&point=ffffff"/>
+
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                    GOALS                              -->
+<!-- ===================================================== -->
+
+<br/>
+
+<h2 align="center">🎯 Goals & Vision</h2>
+
+<p align="center">
+<i>Where I am heading in Data Science and Artificial Intelligence.</i>
+</p>
+
+<br/>
+
+<p align="center">
+
+<b>
+My goal is to become a strong Data Scientist and AI Engineer capable of taking problems from raw data to research, models and intelligent systems.
+</b>
+
+</p>
+
+<br/>
+
+<table width="95%" align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+<h2>📊</h2>
+
+<b>Master Data Science</b>
+
+<br/><br/>
+
+Build strong foundations in statistics, probability, mathematics and machine learning.
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🧠</h2>
+
+<b>Build Advanced AI</b>
+
+<br/><br/>
+
+Go deeper into deep learning, LLMs, computer vision and generative AI.
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🔬</h2>
+
+<b>Explore Research</b>
+
+<br/><br/>
+
+Learn to formulate problems, experiment rigorously and contribute to AI research.
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Learn-0f3460?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experiment-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-7b2d8b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ship-0f3460?style=for-the-badge"/>
+
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
+
+
+<!-- ===================================================== -->
+<!--                    CONNECT                            -->
+<!-- ===================================================== -->
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=Lets%20Connect&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+
+<br/>
+
+<p align="center">
+
+I'm always interested in talking about <b>Data Science, Machine Learning, AI, research, startups and interesting technical problems.</b>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<a href="https://github.com/23f2004742">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://so-app.tech">
-<img src="https://img.shields.io/badge/SoApp-Visit%20Website-111827?style=for-the-badge"/>
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/soumyaranjan-panda-soapp/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
----
+<br/>
 
 <p align="center">
 
-### ⚡ Build. Learn. Ship. Repeat.
+<h3 align="center">Learn. Experiment. Build. Repeat.</h3>
 
-*Currently turning ideas into products.*
+<p align="center">
+<i>"The best way to understand intelligence is to try building it."</i>
+</p>
 
 </p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7b2d8b,40:533483,70:0f3460,100:0d1117"/>
+
+<!-- ===================================================== -->
+<!--                    END                                -->
+<!-- ===================================================== -->

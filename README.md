@@ -1,5 +1,7 @@
 <!-- ===================================================== -->
+
 <!--                    HERO SECTION                       -->
+
 <!-- ===================================================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0d1117,20:0f2027,55:0f3460,85:533483,100:7b2d8b&text=Soumya%20Ranjan%20Panda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=20&descColor=a78bfa"/>
@@ -38,9 +40,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                    ABOUT ME                           -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -131,14 +134,7 @@ My interests span the complete data to AI pipeline:
 
 <br/><br/>
 
-<kbd>Machine Learning</kbd>
-<kbd>Deep Learning</kbd>
-<kbd>LLMs</kbd>
-<kbd>RAG</kbd>
-<kbd>Data Engineering</kbd>
-<kbd>Statistics</kbd>
-<kbd>Computer Vision</kbd>
-<kbd>MLOps</kbd>
+<kbd>Machine Learning</kbd><kbd>Deep Learning</kbd><kbd>LLMs</kbd><kbd>RAG</kbd><kbd>Data Engineering</kbd><kbd>Statistics</kbd><kbd>Computer Vision</kbd><kbd>MLOps</kbd>
 
 </p>
 
@@ -146,9 +142,10 @@ My interests span the complete data to AI pipeline:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                    TECH STACK                         -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -167,7 +164,7 @@ My interests span the complete data to AI pipeline:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,bash"/>
 
 </p>
 
@@ -209,7 +206,6 @@ EDA · Data Cleaning · Visualization · Statistical Analysis · Feature Enginee
 <img src="https://img.shields.io/badge/XGBoost-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/LightGBM-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/CatBoost-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Optuna-203a43?style=flat-square"/>
 
 </p>
 
@@ -332,9 +328,10 @@ APIs · Backend Systems · Docker · CI/CD · Linux · Cloud
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                 AREAS OF INTEREST                     -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -363,9 +360,10 @@ APIs · Backend Systems · Docker · CI/CD · Linux · Cloud
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                  FEATURED PROJECTS                     -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -379,7 +377,6 @@ APIs · Backend Systems · Docker · CI/CD · Linux · Cloud
 </p>
 
 <br/>
-
 
 <!-- ================= PROJECT 1 ================= -->
 
@@ -399,7 +396,6 @@ Built a regression pipeline forecasting equipment valuation from mixed numerical
 
 <p>
 
-✨ Optuna Hyperparameter Optimization  
 <br/>
 ✨ CatBoost · XGBoost · LightGBM · Random Forest  
 <br/>
@@ -419,7 +415,6 @@ Built a regression pipeline forecasting equipment valuation from mixed numerical
 <img src="https://img.shields.io/badge/XGBoost-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/LightGBM-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/CatBoost-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Optuna-0f2027?style=flat-square"/>
 
 </p>
 
@@ -437,17 +432,7 @@ Built an AI ranking system predicting the top 3 correct answers for multiple cho
 
 <p>
 
-✨ Transformer Based Reasoning  
-<br/>
-✨ Retrieval Augmented Generation  
-<br/>
-✨ Model Output Ensembling  
-<br/>
-✨ Hugging Face Transformers  
-<br/>
-✨ MAP@3 Optimization  
-<br/>
-✨ Interactive Streamlit Deployment
+✨ Transformer Based Reasoning<br/>✨ Retrieval Augmented Generation<br/>✨ Model Output Ensembling<br/>✨ Hugging Face Transformers<br/>✨ MAP@3 Optimization<br/>✨ Interactive Streamlit Deployment
 
 </p>
 
@@ -470,7 +455,6 @@ Built an AI ranking system predicting the top 3 correct answers for multiple cho
 <br/>
 <br/>
 
-
 <!-- ================= PROJECT 2 ================= -->
 
 <table width="95%" align="center">
@@ -489,17 +473,7 @@ Built a RAG system analysing bank statements, GST filings and annual reports to 
 
 <p>
 
-✨ Document Ingestion Pipeline  
-<br/>
-✨ Embedding and Semantic Search  
-<br/>
-✨ Cross Document Inconsistency Detection  
-<br/>
-✨ LLM Based Financial Reasoning  
-<br/>
-✨ Audit Ready Explanations  
-<br/>
-✨ Financial Document Intelligence
+✨ Document Ingestion Pipeline<br/>✨ Embedding and Semantic Search<br/>✨ Cross Document Inconsistency Detection<br/>✨ LLM Based Financial Reasoning<br/>✨ Audit Ready Explanations<br/>✨ Financial Document Intelligence
 
 </p>
 
@@ -526,17 +500,7 @@ Built an ML based error detection system for IFC files used in BIM workflows, au
 
 <p>
 
-✨ IFC Schema Feature Engineering  
-<br/>
-✨ Random Forest Classifier  
-<br/>
-✨ Error Type Prediction  
-<br/>
-✨ Hyperparameter Tuning  
-<br/>
-✨ Automated Structural Validation  
-<br/>
-✨ Reduced Manual Review
+✨ IFC Schema Feature Engineering<br/>✨ Random Forest Classifier<br/>✨ Error Type Prediction<br/>✨ Hyperparameter Tuning<br/>✨ Automated Structural Validation<br/>✨ Reduced Manual Review
 
 </p>
 
@@ -558,9 +522,10 @@ Built an ML based error detection system for IFC files used in BIM workflows, au
 <br/>
 <br/>
 
-
 <!-- ===================================================== -->
+
 <!--                 LEARNING JOURNEY                      -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -581,13 +546,7 @@ Built an ML based error detection system for IFC files used in BIM workflows, au
 
 <br/><br/>
 
-Probability  
-<br/>
-Statistical Inference  
-<br/>
-Hypothesis Testing  
-<br/>
-Regression
+Probability<br/>Statistical Inference<br/>Hypothesis Testing<br/>Regression
 
 </td>
 
@@ -599,13 +558,7 @@ Regression
 
 <br/><br/>
 
-Supervised Learning  
-<br/>
-Unsupervised Learning  
-<br/>
-Feature Engineering  
-<br/>
-Model Evaluation
+Supervised Learning<br/>Unsupervised Learning<br/>Feature Engineering<br/>Model Evaluation
 
 </td>
 
@@ -617,13 +570,7 @@ Model Evaluation
 
 <br/><br/>
 
-ANNs  
-<br/>
-CNNs  
-<br/>
-Representation Learning  
-<br/>
-Optimization
+ANNs<br/>CNNs<br/>Representation Learning<br/>Optimization
 
 </td>
 
@@ -635,13 +582,7 @@ Optimization
 
 <br/><br/>
 
-LLMs  
-<br/>
-RAG  
-<br/>
-Embeddings  
-<br/>
-Intelligent Systems
+LLMs<br/>RAG<br/>Embeddings<br/>Intelligent Systems
 
 </td>
 
@@ -661,9 +602,10 @@ Intelligent Systems
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                 GITHUB ANALYTICS                      -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -674,35 +616,22 @@ Intelligent Systems
 
 <p align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=23f2004742&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=06B6D4&icon_color=a78bfa&text_color=c9d1d9"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004742&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23f2004742&theme=github_dark"/>
 
 </p>
 
 <br/>
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=23f2004742&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=a78bfa&currStreakLabel=06B6D4"/>
 
-</p>
 
-<br/>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23f2004742&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=a78bfa&point=ffffff"/>
-
-</p>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                    GOALS                              -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -784,9 +713,10 @@ Learn to formulate problems, experiment rigorously and contribute to AI research
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
 
-
 <!-- ===================================================== -->
+
 <!--                    CONNECT                            -->
+
 <!-- ===================================================== -->
 
 <br/>
@@ -809,7 +739,7 @@ I'm always interested in talking about <b>Data Science, Machine Learning, AI, re
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/soumyaranjan-panda-soapp/)">
+<a href="https://www.linkedin.com/in/soumyaranjan-panda-soapp/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -832,5 +762,7 @@ I'm always interested in talking about <b>Data Science, Machine Learning, AI, re
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7b2d8b,40:533483,70:0f3460,100:0d1117"/>
 
 <!-- ===================================================== -->
+
 <!--                    END                                -->
+
 <!-- ===================================================== -->

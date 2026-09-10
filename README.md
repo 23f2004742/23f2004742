@@ -46,7 +46,7 @@
 
 <h3>Hi, I'm Soumya 👋</h3>
 
-I’m a Data Science student at IIT Madras who genuinely enjoys digging into messy data, understanding why models behave the way they do, and building things that actually work. I learn best through hands-on projects, competitions, hackathons, and the occasional late-night debugging session where a stubborn model finally makes sense. My interests span the complete data-to-AI pipeline, from data analysis and engineering to classical ML, deep learning, and computer vision. More recently, I’ve been exploring generative AI and agentic AI systems, particularly how multiple AI agents can collaborate, negotiate, and solve complex tasks. I’m not trying to specialize too early—I’m driven by curiosity and enjoy learning across different areas of AI by building, experimenting, and competing.
+I’m a Data Science student at IIT Madras who genuinely enjoys digging into messy data, understanding why models behave the way they do, and building things that actually work. I learn best through hands-on projects, competitions, hackathons, and the occasional late-night debugging session where a stubborn model finally makes sense. My interests span the complete data-to-AI pipeline, from data analysis and engineering to classical ML, deep learning, and computer vision. More recently, I’ve been exploring generative AI and agentic AI systems, particularly how multiple AI agents can collaborate, negotiate, and solve complex tasks. I’m not trying to specialize too early, I’m driven by curiosity and enjoy learning across different areas of AI by building, experimenting, and competing.
 
 
 <br/><br/>
@@ -193,19 +193,23 @@ I’m a Data Science student at IIT Madras who genuinely enjoys digging into mes
 <br/>
 
 <!-- ================= PROJECT ROW 1 ================= -->
+
 <table width="95%" align="center">
 <tr>
 <td width="50%" valign="top">
 
 <h2>🤝 Autonomous Agent Marketplace</h2>
 <h4>Hackathon Build: Multi-Agent Commerce</h4>
-<p>Built for a hackathon exploring what an economy made entirely of AI agents could look like. In this system, agents discover, buy and sell services from each other instead of everything routing through a single monolithic model. A human gives a high-level task to an orchestrator agent, which breaks it down, finds the right specialist agents for each piece (code review, documentation, testing, performance analysis), and pays each of them directly using Algorand X402 micropayments. Once all the specialist work comes back, the orchestrator combines it into a single coherent report for the human. The interesting part is that the specialist agents are reusable: once built, they can sell their capabilities to other agents in the marketplace, not just to us, which starts to look like a genuine agent-to-agent economy rather than a one-off pipeline.</p>
-<p>
-✨ Agent-to-agent economy with reusable, sellable capabilities<br/>
-✨ Algorand X402 micropayments between agents<br/>
-✨ Orchestrator agent that decomposes tasks and routes work<br/>
-✨ React/Next.js front end with a FastAPI/Node back end
-</p>
+
+<ul>
+<li>Built a multi-agent marketplace where AI agents can <b>discover, buy and sell specialised services</b> to one another.</li>
+<li>Designed an <b>orchestrator agent</b> that decomposes high-level tasks and dynamically routes subtasks to specialist agents.</li>
+<li>Implemented reusable specialist agents for <b>code review, documentation, testing and performance analysis</b>.</li>
+<li>Integrated <b>Algorand X402 micropayments</b> for autonomous agent-to-agent transactions.</li>
+<li>Designed the system around a reusable <b>agent economy</b>, allowing specialist agents to serve multiple buyers.</li>
+<li>Built the application using <b>React/Next.js</b> with a <b>FastAPI/Node.js</b> backend.</li>
+</ul>
+
 <p>
 <img src="https://img.shields.io/badge/React-0f2027?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square"/>
@@ -218,13 +222,16 @@ I’m a Data Science student at IIT Madras who genuinely enjoys digging into mes
 
 <h2>🚗 Forensic License Plate Enhancement &amp; Recovery</h2>
 <h4>Multi-Frame Evidence-Fusion CV Pipeline</h4>
-<p>A computer vision system built to solve a genuinely hard problem: recovering a readable license plate from footage where no single frame is clear enough on its own. Instead of relying on one good frame, the pipeline detects and tracks the plate across an entire video sequence, restores each cropped instance, runs OCR on the results, and then fuses evidence across time to settle on the most likely correct reading. Every output comes with a forensic confidence score, so the result is honest about how certain it actually is rather than presenting a guess as fact. The full pipeline was evaluated with an ablation study to understand exactly how much each stage, detection, restoration, and temporal fusion, contributes to the final accuracy.</p>
-<p>
-✨ Detection, tracking, restoration and OCR in one pipeline<br/>
-✨ Temporal evidence fusion across multiple frames<br/>
-✨ Forensic confidence scoring on every recovered plate<br/>
-✨ Full evaluation with an ablation study across pipeline stages
-</p>
+
+<ul>
+<li>Built a computer vision pipeline for <b>recovering readable license plates from low-quality video footage</b>.</li>
+<li>Combined <b>plate detection, multi-object tracking, image restoration and OCR</b> into a unified pipeline.</li>
+<li>Used <b>temporal evidence fusion</b> to combine information from multiple frames instead of relying on a single image.</li>
+<li>Generated a <b>forensic confidence score</b> for each recovered plate to quantify prediction reliability.</li>
+<li>Performed an <b>ablation study</b> to measure the individual contribution of detection, restoration and temporal fusion.</li>
+<li>Evaluated the complete pipeline on unseen video sequences for end-to-end plate recognition accuracy.</li>
+</ul>
+
 <p>
 <img src="https://img.shields.io/badge/PyTorch-203a43?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-203a43?style=flat-square&logo=opencv&logoColor=white"/>
@@ -238,19 +245,23 @@ I’m a Data Science student at IIT Madras who genuinely enjoys digging into mes
 <br/><br/>
 
 <!-- ================= PROJECT ROW 2 ================= -->
+
 <table width="95%" align="center">
 <tr>
 <td width="50%" valign="top">
 
 <h2>💳 Lending Approval &amp; Financial Fraud Detection</h2>
 <h4>RAG-Based Financial Intelligence System</h4>
-<p>A retrieval-augmented generation system built to support lending approval decisions by reading across a borrower's bank statements, GST filings and annual reports at once. Rather than reviewing each document in isolation, the system ingests all of them into a shared embedding space and uses semantic search to surface passages that are relevant to a given lending question. Its real value shows up when documents disagree with each other: the system is specifically designed to catch cross-document inconsistencies, such as a revenue figure in an annual report that does not line up with the corresponding GST filing, which is exactly the kind of detail a manual review pass under time pressure is likely to miss. Every flagged inconsistency comes with an audit-ready explanation generated by the LLM, so a human reviewer can verify the reasoning rather than just trusting a black-box score.</p>
-<p>
-✨ Ingests bank statements, GST filings and annual reports together<br/>
-✨ Embedding-based semantic search across all documents<br/>
-✨ Cross-document inconsistency detection<br/>
-✨ Audit-ready explanations generated for every flagged issue
-</p>
+
+<ul>
+<li>Built a <b>RAG-based financial intelligence system</b> for automated lending document analysis.</li>
+<li>Ingested and jointly analysed <b>bank statements, GST filings and annual reports</b>.</li>
+<li>Created an embedding-based semantic retrieval layer for <b>cross-document information retrieval</b>.</li>
+<li>Designed consistency checks to identify <b>financial discrepancies across independent documents</b>.</li>
+<li>Used LLMs to generate <b>audit-ready explanations</b> for each detected inconsistency.</li>
+<li>Designed the workflow to support <b>human-in-the-loop lending decisions</b> rather than relying solely on an automated score.</li>
+</ul>
+
 <p>
 <img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-2c5364?style=flat-square"/>
@@ -263,13 +274,16 @@ I’m a Data Science student at IIT Madras who genuinely enjoys digging into mes
 
 <h2>📈 Heavy Industrial Machinery Price Prediction</h2>
 <h4>Gradient Boosting Regression Pipeline</h4>
-<p>A regression pipeline built to forecast the resale valuation of heavy industrial equipment, a task made harder by a mix of numerical specs, categorical attributes and high-cardinality fields like manufacturer and model variant. Rather than betting on a single algorithm, the pipeline trains four different gradient boosting and tree-based models (CatBoost, XGBoost, LightGBM and Random Forest) and blends their predictions into a single ensemble, which turned out to generalise noticeably better than any one model alone. Categorical fields with very high cardinality were handled with target and frequency encoding rather than naive one-hot encoding, and the whole pipeline was validated with stratified cross-validation and tuned specifically against RMSLE, the metric that actually mattered for the underlying valuation task.</p>
-<p>
-✨ Four-model ensemble: CatBoost, XGBoost, LightGBM and Random Forest<br/>
-✨ Target and frequency encoding for high-cardinality categorical fields<br/>
-✨ Stratified cross-validation to keep evaluation honest<br/>
-✨ Tuned specifically for RMSLE, the competition's scoring metric
-</p>
+
+<ul>
+<li>Developed a regression pipeline for <b>heavy industrial machinery resale price prediction</b>.</li>
+<li>Benchmarked <b>CatBoost, XGBoost, LightGBM and Random Forest</b> models.</li>
+<li>Built a <b>blended ensemble</b> to improve generalisation over individual models.</li>
+<li>Applied <b>target and frequency encoding</b> for high-cardinality categorical variables.</li>
+<li>Used <b>stratified cross-validation</b> for robust model evaluation.</li>
+<li>Optimised the complete pipeline against <b>RMSLE</b>, the target competition metric.</li>
+</ul>
+
 <p>
 <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-203a43?style=flat-square"/>
@@ -283,7 +297,6 @@ I’m a Data Science student at IIT Madras who genuinely enjoys digging into mes
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:06B6D4,100:0d1117&height=2"/>
-
 <!-- ===================================================== -->
 <!--                 LEARNING JOURNEY                      -->
 <!-- ===================================================== -->
